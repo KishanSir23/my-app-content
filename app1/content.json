@@ -1,22 +1,26 @@
 [
   {
-    "id": "icon",
-    "type": "image",
-    "path": "shared/images/image1.webp"
+    "banner": "images/vid_gif_1.gif",
+    "icon": "images/vid_ic_round_1.png",
+    "title": "Title 1 ",
+    "desc": "Description 1",
+    "buttonName": "Play Now 1",
+    "link": "https://172.mark.mglgamez.com/"
   },
   {
-    "id": "icon",
-    "type": "gif",
-    "path": "shared/gifs/animation1.gif"
+    "banner": "images/vid_gif_2.gif",
+    "icon": "images/vid_ic_round_2.png",
+    "title": "Title",
+    "desc": "Description",
+    "buttonName": "Open",
+    "link": "https://103.quiz.qureka.com/intro/question"
   },
   {
-    "id": "banner",
-    "type": "image",
-    "path": "app1/images/image2.webp"
-  },
-  {
-    "id": "item004",
-    "type": "text",
-    "path": "shared/text/welcome.txt"
+    "banner": "images/vid_gif_3.gif",
+    "icon": "images/vid_ic_round_1.png",
+    "title": "Title",
+    "desc": "Description",
+    "buttonName": "Open",
+    "link": "https://811.go.predchamp.com/intro"
   }
 ]
