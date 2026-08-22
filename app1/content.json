@@ -9,15 +9,15 @@
   },
   {
     "banner": "images/vid_gif_2.gif",
-    "icon": "https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif",
+    "icon": "images/giphy.gif",
     "title": "Title 2",
     "desc": "Description 2",
     "buttonName": "Open 2",
     "link": "https://103.quiz.qureka.com/intro/question"
   },
   {
-    "banner": "images/vid_gif_3.gif",
-    "icon": "https://i.giphy.com/Zwkxqa2c6C4avWnrq3.webp",
+    "banner": "images/banner.png",
+    "icon": "images/logo.png",
     "title": "Title 3",
     "desc": "Description 3",
     "buttonName": "WAtch Now 3",
