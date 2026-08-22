@@ -9,7 +9,7 @@
   },
   {
     "banner": "images/vid_gif_2.gif",
-    "icon": "images/vid_ic_round_2.png",
+    "icon": "https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif",
     "title": "Title 2",
     "desc": "Description 2",
     "buttonName": "Open 2",
@@ -17,7 +17,7 @@
   },
   {
     "banner": "images/vid_gif_3.gif",
-    "icon": "images/vid_ic_round_1.png",
+    "icon": "https://i.giphy.com/Zwkxqa2c6C4avWnrq3.webp",
     "title": "Title 3",
     "desc": "Description 3",
     "buttonName": "WAtch Now 3",
