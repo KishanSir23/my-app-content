@@ -1,0 +1,50 @@
+[
+  {
+    "banner": "images/banner1.png",
+    "icon": "images/logo1.png",
+    "title": "Watch - HD Video Player",
+    "desc": "Full Free Video Player, free watch full hd",
+    "buttonName": "PLAY",
+    "link": "https://172.mark.mglgamez.com/"
+  },
+  {
+    "banner": "images/banner2.png",
+    "icon": "images/logo2.png",
+    "title": "Watch - HD Video Player",
+    "desc": "Fast HD video player with smooth playback and easy controls.",
+    "buttonName": "OPEN",
+    "link": "https://103.quiz.qureka.com/intro/question"
+  },
+  {
+    "banner": "images/banner3.png",
+    "icon": "images/logo3.png",
+    "title": "Watch! HD Videos",
+    "desc": "Watch. Play. Enjoy.",
+    "buttonName": "PLAY NOW",
+    "link": "https://811.go.predchamp.com/intro"
+  },
+  {
+    "banner": "images/banner4.png",
+    "icon": "images/logo4.png",
+    "title": "Watch - HD Video Player",
+    "desc": "Full Free Video Player, free watch full hd",
+    "buttonName": "PLAY",
+    "link": "https://172.mark.mglgamez.com/"
+  },
+  {
+    "banner": "images/banner5.png",
+    "icon": "images/logo5.png",
+    "title": "Watch - HD Video Player",
+    "desc": "Fast HD video player with smooth playback and easy controls.",
+    "buttonName": "OPEN",
+    "link": "https://103.quiz.qureka.com/intro/question"
+  },
+  {
+    "banner": "images/banner6.png",
+    "icon": "images/logo6.png",
+    "title": "Watch! HD Videos",
+    "desc": "Watch. Play. Enjoy.",
+    "buttonName": "PLAY NOW",
+    "link": "https://811.go.predchamp.com/intro"
+  }
+]
