@@ -10,17 +10,17 @@
   {
     "banner": "images/vid_gif_2.gif",
     "icon": "images/vid_ic_round_2.png",
-    "title": "Title",
-    "desc": "Description",
-    "buttonName": "Open",
+    "title": "Title 2",
+    "desc": "Description 2",
+    "buttonName": "Open 2",
     "link": "https://103.quiz.qureka.com/intro/question"
   },
   {
     "banner": "images/vid_gif_3.gif",
     "icon": "images/vid_ic_round_1.png",
-    "title": "Title",
-    "desc": "Description",
-    "buttonName": "Open",
+    "title": "Title 3",
+    "desc": "Description 3",
+    "buttonName": "WAtch Now 3",
     "link": "https://811.go.predchamp.com/intro"
   }
 ]
