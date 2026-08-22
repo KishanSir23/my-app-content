@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "icon",
+    "type": "image",
+    "path": "shared/images/image1.webp"
+  },
+  {
+    "id": "icon",
+    "type": "gif",
+    "path": "shared/gifs/animation1.gif"
+  },
+  {
+    "id": "banner",
+    "type": "image",
+    "path": "app1/images/image2.webp"
+  },
+  {
+    "id": "item004",
+    "type": "text",
+    "path": "shared/text/welcome.txt"
+  }
+]
