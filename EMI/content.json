@@ -1,50 +1,34 @@
 [
   {
-    "banner": "images/banner1.png",
-    "icon": "images/logo1.png",
-    "title": "Watch - HD Video Player",
-    "desc": "Full Free Video Player, free watch full hd",
-    "buttonName": "PLAY",
+    "banner": "images/Banner1.png",
+    "icon": "images/icon1.gif",
+    "title": "Smart Finance Tools in One App",
+    "desc": "EMI Calculator • Loan Calculator • 28+ Finance Tools",
+    "buttonName": "Check Your EMI",
     "link": "https://172.mark.mglgamez.com/"
   },
   {
-    "banner": "images/banner2.png",
-    "icon": "images/logo2.png",
-    "title": "Watch - HD Video Player",
-    "desc": "Fast HD video player with smooth playback and easy controls.",
-    "buttonName": "OPEN",
+    "banner": "images/Banner1.png",
+    "icon": "images/icon1.gif",
+    "title": "Calculate Loans Smarter",
+    "desc": "EMI, Interest, SIP, Loan & More — All in One App",
+    "buttonName": "Try Now",
     "link": "https://103.quiz.qureka.com/intro/question"
   },
   {
-    "banner": "images/banner3.png",
-    "icon": "images/logo3.png",
-    "title": "Watch! HD Videos",
-    "desc": "Watch. Play. Enjoy.",
-    "buttonName": "PLAY NOW",
+    "banner": "images/Banner1.png",
+    "icon": "images/icon1.gif",
+    "title": "Your Complete Finance Calculator",
+    "desc": "Plan Loans, EMIs, Investments & More with Ease",
+    "buttonName": "Get Started",
     "link": "https://811.go.predchamp.com/intro"
   },
   {
-    "banner": "images/banner4.png",
-    "icon": "images/logo4.png",
-    "title": "Watch - HD Video Player",
-    "desc": "Full Free Video Player, free watch full hd",
-    "buttonName": "PLAY",
+    "banner": "images/Banner1.png",
+    "icon": "images/icon1.gif",
+    "title": "Make Every Financial Decision Smarter",
+    "desc": "Powerful EMI & Finance Calculators at Your Fingertips",
+    "buttonName": "Explore Tools",
     "link": "https://172.mark.mglgamez.com/"
-  },
-  {
-    "banner": "images/banner5.png",
-    "icon": "images/logo5.png",
-    "title": "Watch - HD Video Player",
-    "desc": "Fast HD video player with smooth playback and easy controls.",
-    "buttonName": "OPEN",
-    "link": "https://103.quiz.qureka.com/intro/question"
-  },
-  {
-    "banner": "images/banner6.png",
-    "icon": "images/logo6.png",
-    "title": "Watch! HD Videos",
-    "desc": "Watch. Play. Enjoy.",
-    "buttonName": "PLAY NOW",
-    "link": "https://811.go.predchamp.com/intro"
   }
 ]
