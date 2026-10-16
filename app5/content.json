@@ -1,1 +1,30 @@
-
+[
+      {
+        "banner": "https://raw.githubusercontent.com/KishanSir23/my-app-content/main/EMI/images/Banner2.png",
+        "icon": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJsM2kxM2VicWYybHJnbmdiejgxZzc5dmw5b3VhZHE5dDZqdWY3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d6Ni9aqSatPfq/giphy.gif",
+        "title": "Discover Movies Like Never Before",
+        "desc": "Explore movies, watch trailers, check ratings, and discover cast details in one app.",
+        "buttonName": "Explore Movies"
+      },
+      {
+        "banner": "https://raw.githubusercontent.com/KishanSir23/my-app-content/main/EMI/images/Banner2.png",
+        "icon": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q0MGp3aGxrNmVhcWtibGNxZ3poYTFkZDB4NGl3OHptbGZ4bnZ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWb85O0u9zDCiZKYqF/giphy.gif",
+        "title": "Find Your Next Favorite Movie",
+        "desc": "Discover exciting movies, explore ratings, and find your next movie night favorite.",
+        "buttonName": "Discover Now"
+      },
+      {
+        "banner": "https://raw.githubusercontent.com/KishanSir23/my-app-content/main/EMI/images/Banner2.png",
+        "icon": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibXk4dTd3bHZjZjE1cHF5ZTIxaXd3bW1vMGR2Ym5wcW9pZWIwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agUKHRlRZO5vRMtkJp/giphy.gif",
+        "title": "Your Ultimate Movie Companion",
+        "desc": "Everything you need to know about movies, from trailers to cast and reviews.",
+        "buttonName": "Learn More"
+      },
+      {
+        "banner": "https://raw.githubusercontent.com/KishanSir23/my-app-content/main/EMI/images/Banner2.png",
+        "icon": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG15Zmg4dnk1enZ3dGI4cnZ4NXNwd2ZzbW5ub2NuMXVpYTV1OWQwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tmH5eUto7WumOdTvRG/giphy.gif",
+        "title": "Find Where to Watch Movies",
+        "desc": "Explore streaming availability and discover where your favorite movies are available.",
+        "buttonName": "Find Where to Watch"
+      }
+    ]
